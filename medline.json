@@ -1,0 +1,74 @@
+{
+	"medlineCitationSet": {
+		"article": [
+				{
+	 					"articleTitle": "Title 1",
+	 					"authorList": {
+	 					"author": [
+	 								{
+	 									"lastName": "Abraham",
+	 									"foreName": "Alice",
+	 									"initials": "A"
+	 								},
+	 								{
+	 									"lastName": "Byron",
+	 									"foreName": "Bill",
+	 									"initials": "B"
+	 								}
+	 						]
+	 					}
+	 			},
+	 			{
+	 					"articleTitle": "Title 2",
+	 					"authorList": {
+	 					"author": [
+	 								{
+	 									"lastName": "Byron",
+	 									"foreName": "Bill",
+	 									"initials": "B"
+	 								},
+	 								{
+	 									"lastName": "Chang",
+	 									"foreName": "Christie",
+	 									"initials": "C"
+	 								}
+	 						]
+	 					}
+	 			},
+	 			{
+	 					"articleTitle": "Title 3",
+	 					"authorList": {
+	 					"author": [
+	 								{
+	 									"lastName": "Chang",
+	 									"foreName": "Christie",
+	 									"initials": "C"
+	 								},
+	 								{
+	 									"lastName": "Abraham",
+	 									"foreName": "Alice",
+	 									"initials": "A"
+	 								}
+	 						]
+	 					}
+	 			},
+	 			{
+	 					"articleTitle": "Title 4",
+	 					"authorList": {
+	 					"author": [
+	 								{
+	 									"lastName": "Doel",
+	 									"foreName": "David",
+	 									"initials": "J"
+	 								},
+	 								{
+	 									"lastName": "Byron",
+	 									"foreName": "Bill",
+	 									"initials": "B"
+	 								}
+	 						]
+	 					}
+	 			}
+		]
+	}
+}
